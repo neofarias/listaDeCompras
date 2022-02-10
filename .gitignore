@@ -4,6 +4,13 @@
 *.ap_
 *.aab
 
+# Adicionado a mais do que o gitignore do Android
+local.properties
+.idea/
+.idea/runConfigurations.xml
+.idea/compiler.xml
+.idea/misc.xml
+
 # Files for the ART/Dalvik VM
 *.dex
 
